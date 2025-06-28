@@ -1,1 +1,89 @@
-"# Complaint-registery"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Mujasimshaik786/Complaint-registery.gitgit push -u origin main
+# Online Complaint Registration and Management System
+
+This project is an Online Complaint Registration and Management System designed to simplify the process of submitting, managing, and resolving complaints for users, agents, and administrators.
+
+## 🔍 Project Overview
+
+The system offers a platform where users can register complaints online, track their progress, and communicate with the assigned agents. Agents handle the resolution, and administrators manage the entire workflow through dashboards.
+
+This Full Stack application is developed using the *MERN* stack:
+- *MongoDB* – For database
+- *Express.js* – Backend framework
+- *React.js* – Frontend library
+- *Node.js* – JavaScript runtime for backend
+
+## 👨‍👩‍👧‍👦 Team Details
+
+- *Team ID:* LTVIP2025TMID49839  
+- *Team Leader:* Shaik Mujasim  
+- *Team Members:*
+  - Bellam Vyshnavi  
+  - Vangimalla Bharathi  
+  - Syed Fathima Thasneem  
+  - Shaik Mohaseena  
+  - Sagala Pavani
+
+## ✅ Features
+
+- User registration and login  
+- Complaint submission with form  
+- Real-time complaint tracking  
+- Chat interface between users and agents  
+- Admin dashboard to assign and monitor complaints  
+- Role-based access: User, Agent, Admin  
+- Secure authentication using JWT  
+- RESTful APIs for all major operations  
+
+## 🧠 Technologies Used
+
+- Frontend: React.js, Material UI, Bootstrap, Axios  
+- Backend: Node.js, Express.js, MongoDB, Mongoose  
+- Authentication: JWT  
+- Communication: Chat system via socket.io  
+
+## ⚙ How to Run Locally
+
+1. *Clone the repository:*
+
+git clone https://github.com/Mujasimshaik786/Complaint-registery.git
+
+2. Install dependencies:
+
+
+
+# Frontend
+cd complaint-registery/frontend
+npm install
+
+# Backend
+cd ../backend
+npm install
+
+3. Run the project:
+
+
+
+# Backend
+cd backend
+npm start
+
+# Frontend (new terminal)
+cd ../frontend
+npm start
+
+Frontend runs on http://localhost:3000
+
+Backend runs on http://localhost:5000 (if configured)
+
+
+
+
+📹 Demo Video link:
+
+https://drive.google.com/file/d/1F0lowfxq_27XeMf7o9A0hEshk093oDwb/view?usp=drivesdk
+
+📝 Contribution Guidelines
+
+This is a team project under a virtual internship. Contributions are limited to team members only.
+
+
