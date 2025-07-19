@@ -1,11 +1,9 @@
 
-# 📝 Online Complaint Registration and Management System
+ 📝 Online Complaint Registration and Management System
 
 This project is an Online Complaint Registration and Management System designed to simplify the process of submitting, managing, and resolving complaints for users, agents, and administrators.
 
----
-
-## 🔍 Project Overview
+ 🔍 Project Overview
 
 This system provides a seamless platform where:
 - Users can register complaints online, track their status, and communicate with support.
@@ -18,9 +16,7 @@ This system provides a seamless platform where:
 - *React.js* – Frontend library
 - *Node.js* – JavaScript runtime for backend
 
----
-
-## 👨‍👩‍👧‍👦 Team Details
+ 👨‍👩‍👧‍👦 Team Details
 
 - *Team ID:* LTVIP2025TMID49839  
 - *Team Leader:* Shaik Mujasim  
@@ -31,9 +27,7 @@ This system provides a seamless platform where:
   - Shaik Mohaseena  
   - Sagala Pavani
 
----
-
-## ✅ Key Features
+ ✅ Key Features
 
 - 🔐 User Registration & Secure Login  
 - 📝 Complaint Submission via Form  
@@ -44,26 +38,22 @@ This system provides a seamless platform where:
 - 🔐 Authentication using JWT  
 - 🌐 RESTful API Integration
 
----
-
-## 🧠 Technologies Used
+ 🧠 Technologies Used
 
 - *Frontend:* React.js, Material UI, Bootstrap, Axios  
 - *Backend:* Node.js, Express.js, MongoDB, Mongoose  
 - *Authentication:* JSON Web Token (JWT)  
 - *Communication:* Socket.IO (Real-time chat)
 
----
+ ⚙ How to Run the Project Locally :
 
-## ⚙ How to Run the Project Locally
-
-### 1️.Clone the Repository
+1️.Clone the Repository
 
 git clone https://github.com/Mujasimshaik786/Complaint-registery.git
 
 2️.Install Dependencies
 
-# Frontend
+ Frontend
 cd complaint-registery/frontend
 npm install
 
@@ -73,11 +63,11 @@ npm install
 
 3️.Run the Application
 
-# Backend
+ Backend
 cd backend
 npm start
 
-# Frontend (in a new terminal)
+Frontend (in a new terminal)
 cd ../frontend
 npm start
 
@@ -89,7 +79,7 @@ npm start
 
 https://drive.google.com/file/d/1F0lowfxq_27XeMf7o9A0hEshk093oDwb/view?usp=drivesdk
 
-## 🤝 Contribution Guidelines
+🤝 Contribution Guidelines
 
 This project is developed under a virtual internship.
 
