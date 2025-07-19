@@ -1,0 +1,100 @@
+
+# 📝 Online Complaint Registration and Management System
+
+This project is an Online Complaint Registration and Management System designed to simplify the process of submitting, managing, and resolving complaints for users, agents, and administrators.
+
+---
+
+## 🔍 Project Overview
+
+This system provides a seamless platform where:
+- Users can register complaints online, track their status, and communicate with support.
+- Agents are assigned to resolve complaints and can interact with users.
+- Administrators monitor the entire system through powerful dashboards.
+
+🛠 This is a Full Stack Web Application built using the *MERN stack*:
+- *MongoDB* – For database
+- *Express.js* – Backend framework
+- *React.js* – Frontend library
+- *Node.js* – JavaScript runtime for backend
+
+---
+
+## 👨‍👩‍👧‍👦 Team Details
+
+- *Team ID:* LTVIP2025TMID49839  
+- *Team Leader:* Shaik Mujasim  
+- *Team Members:*
+  - Bellam Vyshnavi  
+  - Vangimalla Bharathi  
+  - Syed Fathima Thasneem  
+  - Shaik Mohaseena  
+  - Sagala Pavani
+
+---
+
+## ✅ Key Features
+
+- 🔐 User Registration & Secure Login  
+- 📝 Complaint Submission via Form  
+- 📊 Real-Time Complaint Status Tracking  
+- 💬 Chat Interface Between Users and Agents  
+- 🛠 Admin Dashboard to Assign & Monitor Complaints  
+- 👥 Role-Based Access: User, Agent, Admin  
+- 🔐 Authentication using JWT  
+- 🌐 RESTful API Integration
+
+---
+
+## 🧠 Technologies Used
+
+- *Frontend:* React.js, Material UI, Bootstrap, Axios  
+- *Backend:* Node.js, Express.js, MongoDB, Mongoose  
+- *Authentication:* JSON Web Token (JWT)  
+- *Communication:* Socket.IO (Real-time chat)
+
+---
+
+## ⚙ How to Run the Project Locally
+
+### 1️.Clone the Repository
+
+git clone https://github.com/Mujasimshaik786/Complaint-registery.git
+
+2️.Install Dependencies
+
+# Frontend
+cd complaint-registery/frontend
+npm install
+
+# Backend
+cd ../backend
+npm install
+
+3️.Run the Application
+
+# Backend
+cd backend
+npm start
+
+# Frontend (in a new terminal)
+cd ../frontend
+npm start
+
+🌐 Frontend: http://localhost:3000
+🌐 Backend: http://localhost:5000 (if configured properly)
+
+
+📹 Demo Video
+
+https://drive.google.com/file/d/1F0lowfxq_27XeMf7o9A0hEshk093oDwb/view?usp=drivesdk
+
+## 🤝 Contribution Guidelines
+
+This project is developed under a virtual internship.
+
+💡 *Contributions are welcome!*  
+If you'd like to contribute or suggest improvements, feel free to fork the repository and submit a pull request.  
+For major changes, please open an issue first to discuss what you would like to change.
+
+We appreciate your interest in making this project better! 🙌
